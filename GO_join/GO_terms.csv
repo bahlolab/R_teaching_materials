@@ -1,0 +1,13 @@
+GOID,DEFINITION,ONTOLOGY,TERM
+GO:1901609,"Any process that stops, prevents or reduces the frequency, rate or extent of vesicle transport along microtubule.",BP,negative regulation of vesicle transport along microtubule
+GO:0047496,"The directed movement of a vesicle along a microtubule, mediated by motor proteins. This process begins with the attachment of a vesicle to a microtubule, and ends when the vesicle reaches its final destination.",BP,vesicle transport along microtubule
+GO:0018107,The phosphorylation of peptidyl-threonine to form peptidyl-O-phospho-L-threonine.,BP,peptidyl-threonine phosphorylation
+GO:0002924,"Any process that stops, prevents, or reduces the frequency, rate, or extent of a humoral immune response mediated by circulating immunoglobulin.",BP,negative regulation of humoral immune response mediated by circulating immunoglobulin
+GO:0061289,"The series of molecular signals initiated by binding of Wnt protein to a receptor on the surface of the target cell, resulting a change in cell state that contributes to the progression of the kidney over time.",BP,Wnt signaling pathway involved in kidney development
+GO:0006743,"The chemical reactions and pathways involving ubiquinone, a lipid-soluble electron-transporting coenzyme.",BP,ubiquinone metabolic process
+GO:0097232,"The lipid bilayer surrounding a lamellar body. A lamellar body is a membrane-bounded organelle, specialized for the storage and secretion of various substances (surfactant phospholipids, glycoproteins and acid phosphates) which are arranged in the form of tightly packed, concentric, membrane sheets or lamellae. Has some similar properties to, but is distinct from, a lysosome.",CC,lamellar body membrane
+GO:0016321,"The cell cycle process in which genetic material, in the form of chromosomes, is organized and then physically separated and apportioned to two or more sets during the meiotic cell cycle in a female.",BP,female meiosis chromosome segregation
+GO:0036137,"Catalysis of the transfer of an amino group from kynurenine to an acceptor, usually a 2-oxo acid.",MF,kynurenine aminotransferase activity
+GO:1903638,"Any process that activates or increases the frequency, rate or extent of protein import into mitochondrial outer membrane.",BP,positive regulation of protein import into mitochondrial outer membrane
+GO:0019317,The chemical reactions and pathways resulting in the breakdown of fucose (6-deoxygalactose).,BP,fucose catabolic process
+GO:0047804,Catalysis of the reaction: RS-CH2-CH(NH3+)COO- = RSH + NH3 + pyruvate.,MF,cysteine-S-conjugate beta-lyase activity
